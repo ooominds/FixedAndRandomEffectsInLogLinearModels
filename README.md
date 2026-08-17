@@ -23,7 +23,7 @@ Parts of the analysis corresponding to particular sections of the paper:
 
 All data were either simulated, obtained from published sources, or retrieved from data repositories. References to all original sources are consistently provided. The data were used to explore various analytical scenarios in which all variables are categorical and, for at least some of them, only a subset of categories is observed. When all variables are categorical, one of the most common analytical approaches is log-linear modeling. The main theoretical result demonstrates that if a log-linear model holds when considering all categories of the involved variables (fixed effects), it also holds when some variables are restricted to a subset of their categories (random effects).
 
-The data are available from the University of Birmingham Institutional Research Archive (UBIRA): `<LINK>`
+The data are available from the University of Birmingham Institutional Research Archive (UBIRA): (https://doi.org/10.25500/EDATA.BHAM.00001740)[https://doi.org/10.25500/EDATA.BHAM.00001740]
 
 The data are provided as comma-separated values files (`*.csv`). For large-scale, computationally demanding parts of the analysis, results are precomputed and stored as R Data Archives (`*.rda`).
 
